@@ -1,4 +1,4 @@
-# Web
+# Weather webpage
 
 This was an HTML project for the WashU Data Analytics course. This exercise was to complete the following:
 
